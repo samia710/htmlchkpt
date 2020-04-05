@@ -1,0 +1,67 @@
+.section1{
+    width: 100%; 
+    height: 40px;
+}
+.navbar{
+width: 100%;
+height: 40px;
+background-color: darkorange;
+}
+.navbar a{
+    font-size: 35px;
+    text-decoration:underline ;
+    color: blue;
+    margin-right: 90px;
+}
+.heading{
+    color:darkorchid;
+}
+.imag{    width: 100%;
+height: 700px;
+background-image: url(../res/Diana-K-Large-roses-painting.jpg);
+background-size : cover;
+}
+.section2{
+    width: 100%; 
+    height: 40px;
+
+}
+.section222{width: 100%;
+height: 200px;}
+.section4{width: 100%;
+    height: 800px;
+}
+
+.form-group{
+    color:darkorchid;
+    margin-top: 50px; 
+}
+.form-control{
+    width: 200px;
+    height: 40px;
+}
+#track{
+    width:200px ;
+    height: 40px;
+}
+.section22{
+    background-image: url(../res/Diana-K-Large-roses-painting.jpg) ;
+    background-size : cover
+}
+.section4{
+    width: 100%;
+    height: 600px;
+}
+
+
+.footer{
+    position:fixed;
+    bottom: 0;
+    left:0;
+  width: 100%;
+    height: 60px;
+    background-color: darkturquoise;
+    color:darkviolet;
+    text-align: center;
+
+}
